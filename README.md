@@ -1,5 +1,5 @@
-# PortfolioProjects
+# Analytics Projects
 
 - Technology used: SQL, Tableau, Python, EDA, and Analysis.
-- Tools used : sqldeveloper, Tableau, Jupyter notebook
+- Tools used : sqldeveloper, MySQL, Tableau, Jupyter notebook, Pycharm.
 
